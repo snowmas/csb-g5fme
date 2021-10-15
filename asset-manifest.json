@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.js": "https://snowmas.github.io/csb-g5fme/static/js/main.d007613b.chunk.js",
+    "main.js.map": "https://snowmas.github.io/csb-g5fme/static/js/main.d007613b.chunk.js.map",
+    "runtime-main.js": "https://snowmas.github.io/csb-g5fme/static/js/runtime-main.dc3eb30c.js",
+    "runtime-main.js.map": "https://snowmas.github.io/csb-g5fme/static/js/runtime-main.dc3eb30c.js.map",
+    "static/css/2.3107b260.chunk.css": "https://snowmas.github.io/csb-g5fme/static/css/2.3107b260.chunk.css",
+    "static/js/2.7c7ce3e6.chunk.js": "https://snowmas.github.io/csb-g5fme/static/js/2.7c7ce3e6.chunk.js",
+    "static/js/2.7c7ce3e6.chunk.js.map": "https://snowmas.github.io/csb-g5fme/static/js/2.7c7ce3e6.chunk.js.map",
+    "index.html": "https://snowmas.github.io/csb-g5fme/index.html",
+    "precache-manifest.cd28548070fc7a8e8998426ca7f44029.js": "https://snowmas.github.io/csb-g5fme/precache-manifest.cd28548070fc7a8e8998426ca7f44029.js",
+    "service-worker.js": "https://snowmas.github.io/csb-g5fme/service-worker.js",
+    "static/css/2.3107b260.chunk.css.map": "https://snowmas.github.io/csb-g5fme/static/css/2.3107b260.chunk.css.map",
+    "static/js/2.7c7ce3e6.chunk.js.LICENSE.txt": "https://snowmas.github.io/csb-g5fme/static/js/2.7c7ce3e6.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.dc3eb30c.js",
+    "static/css/2.3107b260.chunk.css",
+    "static/js/2.7c7ce3e6.chunk.js",
+    "static/js/main.d007613b.chunk.js"
+  ]
+}
